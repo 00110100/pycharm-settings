@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="vim" type="PLAIN_TEXT" />
+      <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping ext="mat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
