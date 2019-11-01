@@ -1,0 +1,11 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Angular HTML Template" />
+      <blacklist language="JavaScript" />
+      <blacklist language="Ruby" />
+      <blacklist language="SQL" />
+    </blacklists>
+  </component>
+</application>
