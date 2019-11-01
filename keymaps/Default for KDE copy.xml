@@ -1,5 +1,5 @@
 <keymap version="1" name="Default for KDE copy" parent="Default for KDE">
   <action id="ActivatePythonConsoleToolWindow">
-    <keyboard-shortcut first-keystroke="alt 4" />
+    <keyboard-shortcut first-keystroke="alt 3" />
   </action>
 </keymap>
